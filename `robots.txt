@@ -1,0 +1,10 @@
+
+---
+
+## `robots.txt`
+
+```txt
+User-agent: *
+Allow: /
+
+Sitemap: https://ancf-hue.github.io/anti-ai-qwen-academy-citizenship-russian/sitemap.xml
